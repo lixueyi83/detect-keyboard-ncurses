@@ -11,7 +11,7 @@ int main()
     {
         if (getch() == 'g') 
         {
-            printw("You pressed G\n");
+           printw("You pressed G\n");
         }
         napms(5); //sleep 5ms
     }
